@@ -9,3 +9,4 @@
 (require 'init-cc-mode)
 (require 'init-flycheck)
 (require 'init-smartparens)
+(require 'init-projectile)

@@ -2,5 +2,7 @@
 /auto-save-list
 /elpa
 /semanticdb
-session*
-ede-project.el
+session.*
+ede-projects.el
+/projectile-bookmarks.eld
+/tramp
