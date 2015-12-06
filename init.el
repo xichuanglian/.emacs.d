@@ -11,4 +11,5 @@
 (require 'init-smartparens)
 (require 'init-projectile)
 (require 'init-yasnippet)
-(require 'init-magit)
+;(require 'init-magit)
+(require 'init-ui)
