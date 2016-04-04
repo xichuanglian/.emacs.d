@@ -14,3 +14,6 @@
 (require 'init-magit)
 (require 'init-ui)
 (require 'init-go)
+
+(setq tramp-default-method "ssh")
+(setq tab-width 4)
