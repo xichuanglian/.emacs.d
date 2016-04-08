@@ -17,3 +17,4 @@
 
 (setq tramp-default-method "ssh")
 (setq tab-width 4)
+(setq scroll-preserve-screen-position t)
